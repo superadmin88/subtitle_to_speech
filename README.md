@@ -6,6 +6,16 @@ This tool help you to convert subtitle (.srt) to audio file (.wav and .ogg). As 
 
 It uses Google text to speech API, [mpg123](https://www.mpg123.de/) and [sox](http://sox.sourceforge.net/sox.html)
 
+### install docker
+
+https://docs.docker.com/engine/install/ubuntu/
+
+### Clone sorce
+
+gitclone
+
+https://docs.docker.com/engine/install/ubuntu/
+
 ### build it
 
 ```
